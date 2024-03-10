@@ -13,6 +13,3 @@ include(
     ":bonsai-file-system",
     ":bonsai-json",
 )
-
-enableFeaturePreview("VERSION_CATALOGS")
-enableFeaturePreview("TYPESAFE_PROJECT_ACCESSORS")
